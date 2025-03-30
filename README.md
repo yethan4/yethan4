@@ -3,7 +3,7 @@
 
 - 🔭 At the moment, I am concentrating on full-stack development. So far, I have completed a social media project using React, Firebase, and Tailwind CSS. [socialmedia](https://github.com/yethan4/socialmedia)
 
-- 🌱 I am also learning Django through the "Python Django - The Practical Guide" to further develop my backend skills.
+- 🌱 I am also learning django to develop my backend skills.
 
 - 📫 Email: **sebastian.cybul04@gmail.com**
 
