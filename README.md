@@ -3,7 +3,7 @@
 
 - 🔭 At the moment, I am concentrating on full-stack development. So far, I have completed a social media project using React, Firebase, and Tailwind CSS. [socialmedia](https://github.com/yethan4/socialmedia)
 
-- 🌱 I am also learning Django to develop my backend skills, and this is my first project — a simple todo app with a REST API.
+- 🌱 I am also learning Django to develop my backend skills, and this is my first project — a simple todo app with a REST API and JWT authentication.
  [todo-backend](https://github.com/yethan4/todoapp-backend)
 
 - 📫 Email: **sebastian.cybul04@gmail.com**
