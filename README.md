@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Yethan</h1>
-<h3 align="center">I am a first-year Computer Science student at Lublin University of Technology (full-time studies) and I aim to develop my skills in either full-stack development or penetration testing.</h3>
+<h3 align="center">I am a first-year Computer Science student at Lublin University of Technology (full-time). My main focus is on full-stack development, with an interest in cybersecurity.</h3>
 
-- 🔭 At the moment, I am concentrating on full-stack development. So far, I have completed a social media project using React, Firebase, and Tailwind CSS. [socialmedia](https://github.com/yethan4/socialmedia)
+- 🔭 **Currently focusing on full-stack development (frontend + backend):**  
+  - Built a social media app using **React**, **Firebase**, and **Tailwind CSS**:  
+    [socialmedia](https://github.com/yethan4/socialmedia)
+  - Learning **Django** and backend development:  
+    - Created a simple to-do app with REST API and JWT authentication (Django REST Framework):  
+      [todo-backend](https://github.com/yethan4/todoapp-backend)  
+    - First time using **TypeScript** in a project:  
+      [todo-frontend](https://github.com/yethan4/todoappfrontend)
+    - Following the [Django Python Advanced: Project-Based Course](https://www.udemy.com/course/django-python-advanced/?couponCode=ST21MT30625G2)  
+      Example project: [recipe-app-api](https://github.com/yethan4/recipe-app-api) — REST API for recipes, with Django REST Framework, Docker, TDD, and file uploads  
 
-- 🌱 I am also learning Django to develop my backend skills, and this is my first project — a simple todo app with a REST API and JWT authentication.
- [todo-backend](https://github.com/yethan4/todoapp-backend)
+- ⚡ **Active on TryHackMe** — regularly solving challenges to improve my cybersecurity skills.
 
-- 📫 Email: **sebastian.cybul04@gmail.com**
+- 🖥️ **University C++ project:**
+    - [VirtualEcosystem](https://github.com/yethan4/VirtualEcosystem)  
+      Simulation of a virtual ecosystem using OOP (C++), STL, pointers, inheritance, file I/O and simple CLI interface.
 
-- ⚡ Additionally **I regularly participate in TryHackMe challenges to further develop my skills**
+- 📫 **Contact:** sebastian.cybul04@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tech stack:</h3>
 
 <table align="left">
   <tr>
@@ -36,6 +46,12 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <br><span style="font-size: 12px;">JavaScript</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <br><span style="font-size: 12px;">TypeScript</span>
       </a>
     </td>
     <td align="center">
@@ -80,6 +96,18 @@
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
         <br><span style="font-size: 12px;">Django</span>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+        <br><span style="font-size: 12px;">C++</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+        <br><span style="font-size: 12px;">Docker</span>
       </a>
     </td>
   </tr>
