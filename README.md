@@ -8,7 +8,7 @@
     - Created a simple to-do app with REST API and JWT authentication (Django REST Framework):  
       [todo-backend](https://github.com/yethan4/todoapp-backend)  
     - First time using **TypeScript** in a project:  
-      [todo-frontend](https://github.com/yethan4/todoappfrontend)
+      [todo-frontend](https://github.com/yethan4/todoapp-frontend)
     - Following the [Django Python Advanced: Project-Based Course](https://www.udemy.com/course/django-python-advanced/?couponCode=ST21MT30625G2)  
       Example project: [recipe-app-api](https://github.com/yethan4/recipe-app-api) — REST API for recipes, with Django REST Framework, Docker, TDD, and file uploads  
 
