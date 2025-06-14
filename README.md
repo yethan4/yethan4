@@ -4,13 +4,18 @@
 - 🔭 **Currently focusing on full-stack development (frontend + backend):**  
   - Built a social media app using **React**, **Firebase**, and **Tailwind CSS**:  
     [socialmedia](https://github.com/yethan4/socialmedia)
-  - Learning **Django** and backend development:  
-    - Created a simple to-do app with REST API and JWT authentication (Django REST Framework):  
-      [todo-backend](https://github.com/yethan4/todoapp-backend)  
-    - First time using **TypeScript** in a project:  
-      [todo-frontend](https://github.com/yethan4/todoapp-frontend)
-    - Following the [Django Python Advanced: Project-Based Course](https://www.udemy.com/course/django-python-advanced/?couponCode=ST21MT30625G2)  
-      Example project: [recipe-app-api](https://github.com/yethan4/recipe-app-api) — REST API for recipes, with Django REST Framework, Docker, TDD, and file uploads  
+  - Created a simple to-do app with REST API and JWT authentication (**Django REST Framework**, backend):  
+    [todo-backend](https://github.com/yethan4/todoapp-backend)  
+  - First time using **TypeScript** in a project (frontend):  
+    [todo-frontend](https://github.com/yethan4/todoapp-frontend)
+
+- 🐍 **Learning Django and backend development:**  
+  - Following the [Django Python Advanced: Project-Based Course](https://www.udemy.com/course/django-python-advanced/?couponCode=ST21MT30625G2)  
+    Example project: [recipe-app-api](https://github.com/yethan4/recipe-app-api) — REST API for recipes, with Django REST Framework, Docker, TDD, and file uploads
+
+- 🛒 **Starting a new e-commerce project with Django and React:**  
+  - Backend: [shop-backend](https://github.com/yethan4/shop-backend)
+  - Frontend: coming soon!
 
 - ⚡ **Active on TryHackMe** — regularly solving challenges to improve my cybersecurity skills.
 
