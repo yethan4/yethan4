@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yethan</h1>
-<h3 align="center">I am a first-year Computer Science student at Lublin University of Technology (full-time). My main focus is on full-stack development, with an interest in cybersecurity.</h3>
+<h3 align="center">I am a sophomore Computer Science student (full-time) at Lublin University of Technology. My main focus is on full-stack development, with an interest in cybersecurity.</h3>
 
 - 🔭 **Currently focusing on full-stack development (frontend + backend):**  
   - Built a social media app using **React**, **Firebase**, and **Tailwind CSS**:  
